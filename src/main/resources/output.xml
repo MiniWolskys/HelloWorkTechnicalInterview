@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><Result xmlns:srh="main.com.samuel.hellowork.technicalinterview.helpers.XsltExtension">
+    <TransformedOffer>
+        <UpperCase>HELLO WORLD</UpperCase>
+        <Reference>1</Reference>
+        <UTCDate>2023-12-25T14:30:00.000Z</UTCDate>
+    </TransformedOffer>
+    <TransformedOffer>
+        <UpperCase>BONJOUR LE MONDE</UpperCase>
+        <Reference>2</Reference>
+        <UTCDate>2024-01-01T11:00:00.000Z</UTCDate>
+    </TransformedOffer>
+    <TransformedOffer>
+        <UpperCase>HOLA MUNDO</UpperCase>
+        <Reference>3</Reference>
+        <UTCDate>2023-08-15T08:15:00.000Z</UTCDate>
+    </TransformedOffer>
+    <TransformedOffer>
+        <UpperCase>HALLO WELT</UpperCase>
+        <Reference>4</Reference>
+        <UTCDate>2023-10-31T22:59:59.000Z</UTCDate>
+    </TransformedOffer>
+    <TransformedOffer>
+        <UpperCase>CIAO MONDO</UpperCase>
+        <Reference>5</Reference>
+        <UTCDate>2023-06-05T06:45:00.000Z</UTCDate>
+    </TransformedOffer>
+    <TransformedOffer>
+        <UpperCase>OLÁ MUNDO</UpperCase>
+        <Reference>6</Reference>
+        <UTCDate>2023-03-20T13:20:00.000Z</UTCDate>
+    </TransformedOffer>
+    <TransformedOffer>
+        <UpperCase>ПРИВЕТ МИР</UpperCase>
+        <Reference>7</Reference>
+        <UTCDate>2023-09-10T16:30:00.000Z</UTCDate>
+    </TransformedOffer>
+    <TransformedOffer>
+        <UpperCase>世界你好</UpperCase>
+        <Reference>8</Reference>
+        <UTCDate>2023-07-14T14:00:00.000Z</UTCDate>
+    </TransformedOffer>
+    <TransformedOffer>
+        <UpperCase>헬로우 월드</UpperCase>
+        <Reference>9</Reference>
+        <UTCDate>2023-04-21T18:15:00.000Z</UTCDate>
+    </TransformedOffer>
+    <TransformedOffer>
+        <UpperCase>ﺎﯿﻧد مﻼﺳ</UpperCase>
+        <Reference>10</Reference>
+        <UTCDate>2023-11-30T07:05:00.000Z</UTCDate>
+    </TransformedOffer>
+    <TransformedOffer>
+        <UpperCase>MERHABA DÜNYA</UpperCase>
+        <Reference/>
+        <UTCDate>2024-02-19T12:45:00.000Z</UTCDate>
+    </TransformedOffer>
+</Result>
